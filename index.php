@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo " i love you!";
+echo " I LOVE YOU !";
 ?>
 
 </body>
